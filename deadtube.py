@@ -15,6 +15,7 @@ import http.client
 # requires pip install requests
 
 # Custom headers to emulate BurpSuite-style browser requests
+import http.client
 BROWSER_HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
     "Upgrade-Insecure-Requests": "1",
