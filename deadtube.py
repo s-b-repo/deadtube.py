@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-import http.client
-# Exploit Title: Remote manipulate
+# Exploit Title: Remote manipulate and song dos
 # Exploit Author: suicidal_teddy
 # Date:24 april 2025
 # Vendor Homepage: https://github.com/KRTirtho/spotube
